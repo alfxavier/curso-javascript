@@ -15,6 +15,12 @@ h1 {
     text-align: center;
 }
 
+.resultado {
+    text-align: center;
+    font-size: 3rem;
+    font-style: bold;
+}
+
 body {
     margin: 0;
     padding: 0;
