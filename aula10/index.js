@@ -6,11 +6,11 @@ const nome1 = "Andre";
 const nome2 = `Andre`;
 
 //number
-const num1 = 10;
-const num2 = 10.7;
+//const num1 = 10;
+//const num2 = 10.7;
 
 let nomeAluno; //undefined -> não aponta para local nenhum na memória
-let sobrenomeAluno = null; //nulo -> não aponta pata local nenhum na memória
+let sobrenomeAluno = null; //nulo -> não aponta para local nenhum na memória
 
 const boolean = true; //or false -> valor lógico
 
@@ -21,10 +21,10 @@ const boolean = true; //or false -> valor lógico
 //% retorna o resto da divisão
 //ordem de precedencia dos operadores arintmeticos (), **, *, /, %, +, -.
 
-// const num1 = 5;
-// const num2 = 10;
-
-// console.log(num1 * num2);
+let num11 = 5;
+let num22 = 10;
+console.log("--------")
+console.log(num11 ** num22);
 
 //operador de incremento ++
 
@@ -48,7 +48,7 @@ console.log(contador);
 
 const passo = 2;
 contador = 0
-
+// contado = contador + passo >> contador += passo
 contador += passo;
 contador += passo;
 contador += passo;
