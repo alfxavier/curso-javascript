@@ -31,7 +31,7 @@ Acompanhe meu progresso e torça comigo! 😄
 - aula 10 > Operadores aritméticos, de atribuição e incremento
 - aula 11 > alert, confirm, e prompt (Navegador)
 - aula 12 > Exercício varA, varB, varC
-- aula 13 > Mais sobre strings
-- aula 14 > 
+- aula 13 > Mais sobre strings - Exercícios
+- aula 14 > Um pouco mais sobre os numbers em JavaScript
 
 ### 100º dia - 
