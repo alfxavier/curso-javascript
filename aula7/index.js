@@ -8,3 +8,4 @@
 //Não utilize var utilize CONST.
 
 const nome = 'João';
+console.log(typeof(nome));

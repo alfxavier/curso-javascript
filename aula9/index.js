@@ -3,5 +3,7 @@
 var name = 'Luiz';
 var name = 'André'; // com var posso re-declarar já com let não posso
 
-varGlobal = 'André' //Não faça isso!!
+varGlobal = 'André' //Não faça isso!! cria variável global.
+
+//usar sempre let!
 
