@@ -1,7 +1,7 @@
 //array, objetos e funções...
 
 const alunos = ['André', 'Luis', 'Joao', 'Joaqim', 'Anne', 'Joana'];
-
+console.log(alunos[40]);
 
 console.log(typeof alunos); //retorna um objeto
 console.log(alunos instanceof Array);//Para identificar se trata-se de um Array. se true é array se false não é array

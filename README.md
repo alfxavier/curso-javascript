@@ -32,6 +32,14 @@ Acompanhe meu progresso e torça comigo! 😄
 - aula 11 > alert, confirm, e prompt (Navegador)
 - aula 12 > Exercício varA, varB, varC
 - aula 13 > Mais sobre strings - Exercícios
+
+### 2º dia - 11/11/2024
+
 - aula 14 > Um pouco mais sobre os numbers em JavaScript
+- aula 15 > Objeto Math
+- aula 16 > Array
+- aula 17 > Funções
+- aula 18 > Objetos
+- aula 19 > Valores primiivos e valores por referência  
 
 ### 100º dia - 

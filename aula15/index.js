@@ -12,8 +12,3 @@ console.log(aleatorio);
 //raiz quadrada de um número 
 let num3 = 25;
 console.log(num3 ** 0.5);
-
-
-
-
-
