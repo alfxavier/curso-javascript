@@ -42,4 +42,14 @@ Acompanhe meu progresso e torça comigo! 😄
 - aula 18 > Objetos
 - aula 19 > Valores primiivos e valores por referência  
 
+### 2º dia - 11/11/2024
+
+- aula 20 > execício aula udemy 34.
+- aula 21 > Operadores de comparação
+- aula 22 > Operadores Lógicos
+- aula 23 > Avaliação de curto-circuito 
+- aula 24 > if, else if e else (1)
+- aula 26 > if, else if e else (2)
+
+- aula 27 - stop aula 41 udemy
 ### 100º dia - 
