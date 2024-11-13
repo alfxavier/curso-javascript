@@ -1,69 +1,82 @@
+/* Importa uma fonte do Google Fonts para o texto da página */
 @import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap');
-:root{
-    --primary-color: rgb(29, 105, 141);
-    --primary-color-darker: rgb(4, 78, 97);
-    --primary-color-active: rgb(56, 56, 68);
+
+/* Define variáveis de cores para facilitar o uso e a alteração do esquema de cores */
+:root {
+    --primary-color: rgb(29, 105, 141); /* Cor primária */
+    --primary-color-darker: rgb(4, 78, 97); /* Cor mais escura para o efeito hover */
+    --primary-color-active: rgb(56, 56, 68); /* Cor usada para o estado ativo do botão */
 }
 
-*{
+/* Aplica o modelo de box-sizing border-box a todos os elementos, 
+   para que o padding e as bordas sejam incluídos nas dimensões totais */
+* {
     box-sizing: border-box;
-    outline: 0;
-    
+    outline: 0; /* Remove o contorno padrão dos elementos ao serem focados */
 }
 
+/* Centraliza o texto de todos os elementos h1 */
 h1 {
     text-align: center;
 }
 
+/* Estilos básicos para o corpo da página */
 body {
-    margin: 0;
-    padding: 0;
-    background: var(--primary-color);
-    font-family: 'M PLUS Rounded 1c', sans-serif;
-    font-size: 1.5em;
-    line-height: 1.5em;
+    margin: 0; /* Remove a margem padrão do body */
+    padding: 0; /* Remove o padding padrão do body */
+    background: var(--primary-color); /* Define a cor de fundo como a cor primária */
+    font-family: 'M PLUS Rounded 1c', sans-serif; /* Define a fonte personalizada */
+    font-size: 1.5em; /* Aumenta o tamanho da fonte base */
+    line-height: 1.5em; /* Define o espaçamento entre linhas */
 }
 
+/* Estiliza a classe .container, que centraliza e delimita o conteúdo principal */
 .container {
-    max-width: 640px;
-    margin: 50px auto;
-    background: #fff;
-    padding: 20px;
-    border-radius: 10px;
+    max-width: 640px; /* Define uma largura máxima */
+    margin: 50px auto; /* Centraliza horizontalmente e aplica uma margem no topo */
+    background: #fff; /* Define o fundo como branco */
+    padding: 20px; /* Adiciona um padding interno */
+    border-radius: 10px; /* Adiciona bordas arredondadas */
 }
 
-form input, form laber, form button{
-    display: block;
-    width: 100%;
-    margin-bottom: 10px;
+/* Define o layout dos elementos dentro de formulários */
+form input, form label, form button {
+    display: block; /* Torna os elementos em blocos, ocupando toda a largura */
+    width: 100%; /* Ocupa 100% da largura disponível */
+    margin-bottom: 10px; /* Adiciona uma margem inferior */
 }
 
-form input{
-    font-size: 24px;
-    height: 50px;
-    padding: 0 20px;
+/* Estiliza especificamente os campos de input no formulário */
+form input {
+    font-size: 24px; /* Aumenta o tamanho do texto dentro do input */
+    height: 50px; /* Define a altura do input */
+    padding: 0 20px; /* Adiciona padding interno à esquerda e à direita */
 }
 
-form input:focus{
-    outline: 1px solid var(--primary-color);
+/* Adiciona um contorno ao input quando ele está em foco */
+form input:focus {
+    outline: 1px solid var(--primary-color); /* Contorno com a cor primária */
 }
 
-form button{
-    border: none;
-    background: var(--primary-color);
-    color: #fff;
-    font-size: 18px;
-    font-weight: 700;
-    height: 50px;
-    cursor: pointer;
-    margin-top: 30px;
-    border-radius: 10px;
+/* Estiliza o botão do formulário */
+form button {
+    border: none; /* Remove a borda padrão do botão */
+    background: var(--primary-color); /* Define a cor de fundo do botão */
+    color: #fff; /* Cor do texto do botão em branco */
+    font-size: 18px; /* Define o tamanho do texto */
+    font-weight: 700; /* Aumenta o peso da fonte */
+    height: 50px; /* Altura do botão */
+    cursor: pointer; /* Exibe o cursor de ponteiro ao passar sobre o botão */
+    margin-top: 30px; /* Adiciona uma margem superior */
+    border-radius: 10px; /* Arredonda as bordas do botão */
 }
 
+/* Altera a cor do botão ao passar o mouse (efeito hover) */
 form button:hover {
-    background: var(--primary-color-darker);
+    background: var(--primary-color-darker); /* Cor mais escura */
 }
 
+/* Altera a cor do botão ao clicar (efeito active) */
 form button:active {
-    background: var(--primary-color-active);
+    background: var(--primary-color-active); /* Outra variação de cor */
 }

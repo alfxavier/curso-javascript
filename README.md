@@ -42,7 +42,7 @@ Acompanhe meu progresso e torça comigo! 😄
 - aula 18 > Objetos
 - aula 19 > Valores primiivos e valores por referência  
 
-### 2º dia - 11/11/2024
+### 3º dia - 12/11/2024
 
 - aula 20 > execício aula udemy 34.
 - aula 21 > Operadores de comparação
@@ -51,5 +51,15 @@ Acompanhe meu progresso e torça comigo! 😄
 - aula 24 > if, else if e else (1)
 - aula 26 > if, else if e else (2)
 
-- aula 27 - stop aula 41 udemy
+### 4º dia - 13/11/2024
+
+- modelo > Modelo HTML e CSS para exercícios posteriores
+- aula 26 - exercício (unindo tudo aprendido até aqui e mais)
+
+### 5º dia - 14/11/2024
+- aula 27 > 
+- aula 28 > 
+- aula 29 >
+- aula 30 >
+
 ### 100º dia - 
