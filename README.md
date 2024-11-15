@@ -57,9 +57,13 @@ Acompanhe meu progresso e torça comigo! 😄
 - aula 26 - exercício (unindo tudo aprendido até aqui e mais)
 
 ### 5º dia - 14/11/2024
-- aula 27 > 
-- aula 28 > 
-- aula 29 >
-- aula 30 >
 
+- aula 27 > Operador Ternario
+- aula 28 > Objeto Date
+- aula 29 > Switch/case
+- aula 30 > Exercício Date + Switch/case
+- aula 31 > Diferenças entre var e let
+- aula 32 > Atribuição via desestruturação (Arrays)
+
+- aula 33 > 51 Atribuição via desestruturação (Objetos)
 ### 100º dia - 
