@@ -65,5 +65,11 @@ Acompanhe meu progresso e torça comigo! 😄
 - aula 31 > Diferenças entre var e let
 - aula 32 > Atribuição via desestruturação (Arrays)
 
+### 6º dia - 15/11/2024
 - aula 33 > 51 Atribuição via desestruturação (Objetos)
+- aula 34 > For clássico
+- aula 35 > Exercício For
+- aula 36 > Estrutura de repetição For in
+- aula 37 > Estrutura de repetição For of
+- aula 38 > Exercício iteração no DOM
 ### 100º dia - 
