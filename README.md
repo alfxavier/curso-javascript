@@ -66,10 +66,20 @@ Acompanhe meu progresso e torça comigo! 😄
 - aula 32 > Atribuição via desestruturação (Arrays)
 
 ### 6º dia - 15/11/2024
+
 - aula 33 > 51 Atribuição via desestruturação (Objetos)
 - aula 34 > For clássico
 - aula 35 > Exercício For
 - aula 36 > Estrutura de repetição For in
 - aula 37 > Estrutura de repetição For of
 - aula 38 > Exercício iteração no DOM
+
+### 7º dia - 16/11/2024
+
+- aula 39 > While e Do While - Estrutura de repetição
+- aula 40 > Break e Continue
+- aula 41 > Exercíco com lógica de programação - 01
+- aula 42 > Exercíco com lógica de programação - 02
+- aula 43 > Exercíco com lógica de programação - 03
+- aula 44 >
 ### 100º dia - 
