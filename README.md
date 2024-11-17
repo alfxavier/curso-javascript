@@ -81,5 +81,11 @@ Acompanhe meu progresso e torça comigo! 😄
 - aula 41 > Exercíco com lógica de programação - 01
 - aula 42 > Exercíco com lógica de programação - 02
 - aula 43 > Exercíco com lógica de programação - 03
-- aula 44 >
+
+### 8º dia - 17/11/2024
+- aula 44 > Tratando e lançando erros (try, catch, finally)
+- aula 45 > Tratando e lançando erros (try, catch, finally)
+
+
+Stop- aula 46 > setInterval e setTimeout
 ### 100º dia - 
